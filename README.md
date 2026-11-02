@@ -17,8 +17,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anxnt-goyl/Leetcode/tree/master/0001-two-sum) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anxnt-goyl/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anxnt-goyl/Leetcode/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anxnt-goyl/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+## Sorting
+|  |
+| ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anxnt-goyl/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 <!---LeetCode Topics End-->
