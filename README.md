@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/anxnt-goyl/Leetcode/tree/master/0062-unique-paths) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anxnt-goyl/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Sorting
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anxnt-goyl/Leetcode/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/anxnt-goyl/Leetcode/tree/master/0062-unique-paths) |
 ## Backtracking
 |  |
 | ------- |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/anxnt-goyl/Leetcode/tree/master/0078-subsets) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/anxnt-goyl/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
