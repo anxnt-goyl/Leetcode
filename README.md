@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anxnt-goyl/Leetcode/tree/master/0001-two-sum) |
+| [0078-subsets](https://github.com/anxnt-goyl/Leetcode/tree/master/0078-subsets) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anxnt-goyl/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/anxnt-goyl/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Hash Table
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anxnt-goyl/Leetcode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/anxnt-goyl/Leetcode/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/anxnt-goyl/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/anxnt-goyl/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
